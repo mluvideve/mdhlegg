@@ -1,1 +1,1 @@
-# mdhlegg
+# Migthy Ducks Hockey League
